@@ -1,0 +1,28 @@
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.genruntimeconfig.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.exe
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.deps.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.runtimeconfig.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.runtimeconfig.dev.json
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\bin\Debug\netcoreapp3.1\Dependencies.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.csproj.AssemblyReference.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.AssemblyInfoInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.AssemblyInfo.cs
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.dll
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.pdb
+C:\Users\MSI DRAGON\Documents\_SEMENTARA_\FINAL PROJECT PEMROGRAMAN\FINAL PROJECT PEMROGRAMAN KEL 3 IF02\NO 1\Dependencies\Dependencies\obj\Debug\netcoreapp3.1\Dependencies.genruntimeconfig.cache
